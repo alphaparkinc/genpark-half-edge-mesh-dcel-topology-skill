@@ -1,0 +1,6 @@
+name: genpark-half-edge-mesh-dcel-topology-skill
+version: 1.0.0
+description: Doubly Connected Edge List (DCEL) Half-Edge mesh topology with vertex incident cycles and Euler characteristic
+command: python
+args:
+  - mcp_server.py
