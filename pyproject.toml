@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "genpark-half-edge-mesh-dcel-topology-skill"
+version = "1.0.0"
+description = "Doubly Connected Edge List (DCEL) Half-Edge mesh topology with vertex incident cycles and Euler characteristic"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
